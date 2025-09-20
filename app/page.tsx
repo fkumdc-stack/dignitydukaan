@@ -32,7 +32,7 @@ const products = [
     id: 3,
     name: "14x Server Boosts",
     description: "Boost your favorite Discord servers with premium perks",
-    price: "3.99",
+    price: "$3.99",
     period: "/MONTHLY",
     features: ["FULL WARRANTY", "DIRECT BOOST", "NO KEY SYSTEM", "NO BOT SYSTEM"],
     icon: Star,
